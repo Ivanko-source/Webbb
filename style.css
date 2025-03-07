@@ -45,7 +45,7 @@ a {
 #block {
     width: 45%;
     height: 700px;
-    background-image: url(../Html/Plane.jpeg);
+    background-image: url(Plane.jpeg);
     padding-top: 15px;
     background-size: cover;
     background-position: center;
